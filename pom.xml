@@ -6,7 +6,7 @@
 	<groupId>booksearch</groupId>
 	<artifactId>BookSearch2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>BookSearch2</name>
 	<description>A second version of the BookSearch application</description>
